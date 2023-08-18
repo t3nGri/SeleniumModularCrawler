@@ -1,0 +1,925 @@
+1671968587552	geckodriver	INFO	Listening on 127.0.0.1:62448
+1671968765823	geckodriver	INFO	Listening on 127.0.0.1:62546
+1671968768925	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "62547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilei55nXy"
+1671968770203	Marionette	INFO	Marionette enabled
+1671968770217	Marionette	INFO	Listening on port 62558
+Read port: 62558
+WebDriver BiDi listening on ws://127.0.0.1:62547
+1671968770502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilei55nXy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62547/devtools/browser/675f9f52-f4d8-4e5f-a8c0-45b95d168916
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671969067395	Marionette	INFO	Stopped listening on port 62558
+
+Read port: 62716
+WebDriver BiDi listening on ws://127.0.0.1:62707
+1671968937769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilezuZTb1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62707/devtools/browser/788e99ef-6a86-4abf-99fb-b5e7bb76acb4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671969067898	Marionette	INFO	Stopped listening on port 62716
+
+Read port: 62792
+WebDriver BiDi listening on ws://127.0.0.1:62782
+1671969022867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile4yvhRc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62782/devtools/browser/75f52923-2f93-4d66-8234-862b87c320f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671969203086	Marionette	INFO	Stopped listening on port 62792
+
+Read port: 62958
+WebDriver BiDi listening on ws://127.0.0.1:62947
+1671969114069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileTDISiG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62947/devtools/browser/3f584b02-bd10-4ac1-a3f2-e4654e5a40d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671969201264	Marionette	INFO	Stopped listening on port 62958
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "63028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilepzzAbQ"
+1671969166172	Marionette	INFO	Marionette enabled
+1671969166182	Marionette	INFO	Listening on port 63037
+Read port: 63037
+WebDriver BiDi listening on ws://127.0.0.1:63028
+1671969166452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilepzzAbQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63028/devtools/browser/7124e0fa-4808-47d0-ad40-8fd5779c240c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 3327 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671969199173	Marionette	INFO	Stopped listening on port 63037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+[Parent 16532, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1671969211755	geckodriver	INFO	Listening on 127.0.0.1:63103
+1671969214799	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "63104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileX6PGER"
+1671969215742	Marionette	INFO	Marionette enabled
+1671969215754	Marionette	INFO	Listening on port 63113
+Read port: 63113
+WebDriver BiDi listening on ws://127.0.0.1:63104
+1671969216065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileX6PGER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63104/devtools/browser/2226b111-5093-4862-8d88-91be5becd230
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671969247171	Marionette	INFO	Stopped listening on port 63113
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1671969262760	geckodriver	INFO	Listening on 127.0.0.1:63169
+1671969265817	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "63170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile8XjwyT"
+1671969266463	Marionette	INFO	Marionette enabled
+1671969266476	Marionette	INFO	Listening on port 63179
+Read port: 63179
+WebDriver BiDi listening on ws://127.0.0.1:63170
+1671969266752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile8XjwyT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63170/devtools/browser/fa540f1b-1022-4250-a896-2faedc573e4a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 7127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671969707797	Marionette	INFO	Stopped listening on port 63179
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "63356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileOrPSe9"
+1671969475118	Marionette	INFO	Marionette enabled
+1671969475131	Marionette	INFO	Listening on port 63365
+Read port: 63365
+WebDriver BiDi listening on ws://127.0.0.1:63356
+1671969475401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileOrPSe9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63356/devtools/browser/a9e4bc45-e962-45f1-b410-7f0a3c13ba0b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 849 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671969708757	Marionette	INFO	Stopped listening on port 63365
+
+Read port: 63453
+WebDriver BiDi listening on ws://127.0.0.1:63444
+1671969548755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilewmkTUB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63444/devtools/browser/d6c57ebf-ee3b-47d9-a51b-63e6cdb0def7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 1409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671969709369	Marionette	INFO	Stopped listening on port 63453
+
+Read port: 63539
+WebDriver BiDi listening on ws://127.0.0.1:63530
+1671969628786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileDEcT1b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63530/devtools/browser/be645df3-2caa-4ff0-9d26-508ed079e811
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 7111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 1956 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6408 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1671969712485	Marionette	INFO	Stopped listening on port 63539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671969726271	geckodriver	INFO	Listening on 127.0.0.1:63637
+1671969729348	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "63638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileHzLB0m"
+1671969730305	Marionette	INFO	Marionette enabled
+1671969730318	Marionette	INFO	Listening on port 63648
+Read port: 63648
+WebDriver BiDi listening on ws://127.0.0.1:63638
+1671969730592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileHzLB0m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63638/devtools/browser/45181b24-4505-450f-90df-374875a5d2a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 3280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 1468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671971799989	Marionette	INFO	Stopped listening on port 63648
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "63711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileQLp0Lt"
+1671969763737	Marionette	INFO	Marionette enabled
+1671969763751	Marionette	INFO	Listening on port 63720
+Read port: 63720
+WebDriver BiDi listening on ws://127.0.0.1:63711
+1671969764026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileQLp0Lt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63711/devtools/browser/28df912f-efb8-444f-bb27-3ddb8315d9d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 5330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1895496452%3A1671968794942807&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4dixldzIucRHerO1brZ6Suuv_c524vnBvkuCNmO8M9iiHVL7SGuMGOc0y_6DInjrOF6Mk6vg line 534 > injectedScript line 2 > eval line 5109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671971801140	Marionette	INFO	Stopped listening on port 63720
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote-debugging-port" "63785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileJkkrW7"
+1671969802123	Marionette	INFO	Marionette enabled
+1671969802135	Marionette	INFO	Listening on port 63794
+Read port: 63794
+WebDriver BiDi listening on ws://127.0.0.1:63785
+1671969802406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileJkkrW7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63785/devtools/browser/951c6f6d-fa83-4261-92aa-d30ab1bf37a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-183558108%3A1671969810139961&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6d0cBRDlIrcIKDAAcHPMk1-3e_wMHy8jiB7iYr_7IZdyfxmJVyd-mJul4e9OcCJqf2ApF3 line 534 > injectedScript line 2 > eval line 7639 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-183558108%3A1671969810139961&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6d0cBRDlIrcIKDAAcHPMk1-3e_wMHy8jiB7iYr_7IZdyfxmJVyd-mJul4e9OcCJqf2ApF3 line 534 > injectedScript line 2 > eval line 2900 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671971803013	Marionette	INFO	Stopped listening on port 63794
+1671973040281	geckodriver	INFO	Listening on 127.0.0.1:57672
+1671973043337	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilezj6ZEU"
+1671973044570	Marionette	INFO	Marionette enabled
+1671973044589	Marionette	INFO	Listening on port 57682
+Read port: 57682
+WebDriver BiDi listening on ws://127.0.0.1:57673
+1671973045284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilezj6ZEU\\search.json.mozlz4", (void 0)))
+1671973050951	Marionette	INFO	Stopped listening on port 57682
+1671973050969	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1671973280141	geckodriver	INFO	Listening on 127.0.0.1:57964
+1671973283221	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileu243q5"
+1671973284376	Marionette	INFO	Marionette enabled
+1671973284389	Marionette	INFO	Listening on port 57974
+Read port: 57974
+WebDriver BiDi listening on ws://127.0.0.1:57965
+1671973284678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileu243q5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57965/devtools/browser/134ee009-a0b5-4b5c-9df7-9111094308b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671973334850	geckodriver	INFO	Listening on 127.0.0.1:58066
+1671973337901	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilePepRwa"
+1671973702738	geckodriver	INFO	Listening on 127.0.0.1:58758
+1671973705779	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilejo4CsH"
+1671973707153	Marionette	INFO	Marionette enabled
+1671973707171	Marionette	INFO	Listening on port 58771
+Read port: 58771
+WebDriver BiDi listening on ws://127.0.0.1:58759
+1671973707521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilejo4CsH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58759/devtools/browser/01543af5-1cfa-4118-92d6-50e780202634
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1560465719%3A1671973716362933&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5WdsQzPl7J2HH5egPgfUMc8LD83L6bORvnJ2xOd0ylAmjAOnZhxzEHocMhcQio3Ta2H2tWrA line 534 > injectedScript line 2 > eval line 5118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1560465719%3A1671973716362933&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5WdsQzPl7J2HH5egPgfUMc8LD83L6bORvnJ2xOd0ylAmjAOnZhxzEHocMhcQio3Ta2H2tWrA line 534 > injectedScript line 2 > eval line 367 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671974326493	geckodriver	INFO	Listening on 127.0.0.1:59453
+1671974329568	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilew9yDNH"
+1671974330882	Marionette	INFO	Marionette enabled
+1671974330895	Marionette	INFO	Listening on port 59463
+Read port: 59463
+WebDriver BiDi listening on ws://127.0.0.1:59454
+1671974331282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilew9yDNH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59454/devtools/browser/8c97934b-8f1b-4305-8415-81d74ff9aaed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671974349803	geckodriver	INFO	Listening on 127.0.0.1:59518
+1671974352851	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilevnb5ju"
+1671974353563	Marionette	INFO	Marionette enabled
+1671974353573	Marionette	INFO	Listening on port 59528
+Read port: 59528
+WebDriver BiDi listening on ws://127.0.0.1:59519
+1671974353859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilevnb5ju\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59519/devtools/browser/bddcd8a9-5d66-4d0f-973a-29362ca0eac3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-166957603%3A1671974362359089&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6tiFSPOO3ESIBDL_Od77d3joJd3ml1sEvE2TliIAsWN-TlGe4ZLkP3J-y26sslGyp87SViTg line 534 > injectedScript line 2 > eval line 6306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-166957603%3A1671974362359089&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6tiFSPOO3ESIBDL_Od77d3joJd3ml1sEvE2TliIAsWN-TlGe4ZLkP3J-y26sslGyp87SViTg line 534 > injectedScript line 2 > eval line 3794 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671974367477	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671974391291	geckodriver	INFO	Listening on 127.0.0.1:59613
+1671974394349	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileOykfDp"
+1671974395345	Marionette	INFO	Marionette enabled
+1671974395358	Marionette	INFO	Listening on port 59625
+Read port: 59625
+WebDriver BiDi listening on ws://127.0.0.1:59614
+1671974395621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileOykfDp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59614/devtools/browser/bce40ba4-9993-4de9-931c-a413f6acc6a6
+1671974400076	Marionette	INFO	Stopped listening on port 59625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1671974403480	geckodriver	INFO	Listening on 127.0.0.1:59646
+1671974406526	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "59647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileKfaDSn"
+1671974407160	Marionette	INFO	Marionette enabled
+1671974407170	Marionette	INFO	Listening on port 59657
+Read port: 59657
+WebDriver BiDi listening on ws://127.0.0.1:59647
+1671974407429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileKfaDSn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59647/devtools/browser/d3d655c9-5e94-4ea3-b0eb-2ab0173016f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1006131112%3A1671974415270849&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4HE0IzUt7TPiVOkOBSebvhRnXV2igDqs2EbwX1Qsx1Wmm8TAo4BorFWXQW41Gksz40Xpj8WQ line 534 > injectedScript line 2 > eval line 1149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1006131112%3A1671974415270849&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4HE0IzUt7TPiVOkOBSebvhRnXV2igDqs2EbwX1Qsx1Wmm8TAo4BorFWXQW41Gksz40Xpj8WQ line 534 > injectedScript line 2 > eval line 3596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671974420354	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671974763086	Marionette	INFO	Stopped listening on port 59657
+om/v3/signin/identifier?dsh=S520251472%3A1671974517644380&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6ZHHlXTBm4JqAY41ZQSOFHshA90pin9tVyS7Oa-cOZQ_SyeydD9OG-GVMA1vBL9XgqMlqmnQ line 534 > injectedScript line 2 > eval line 6818 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S520251472%3A1671974517644380&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6ZHHlXTBm4JqAY41ZQSOFHshA90pin9tVyS7Oa-cOZQ_SyeydD9OG-GVMA1vBL9XgqMlqmnQ line 534 > injectedScript line 2 > eval line 4739 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671974523215	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671974763580	Marionette	INFO	Stopped listening on port 59861
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671974857509	geckodriver	INFO	Listening on 127.0.0.1:60280
+1671974860585	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "60281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileXjP7dL"
+1671974861541	Marionette	INFO	Marionette enabled
+1671974861553	Marionette	INFO	Listening on port 60290
+Read port: 60290
+WebDriver BiDi listening on ws://127.0.0.1:60281
+1671974861844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileXjP7dL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60281/devtools/browser/e3e86fe3-8632-4111-b063-117554d85ca6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1275094147%3A1671974870925745&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4h-PK5g_OClSHTp0OTYzZ5G2eS0reocl4hLC8PWXoTPZKSOElrYz6POOGo_MoGC7-R33vaFQ line 534 > injectedScript line 2 > eval line 5417 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1275094147%3A1671974870925745&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4h-PK5g_OClSHTp0OTYzZ5G2eS0reocl4hLC8PWXoTPZKSOElrYz6POOGo_MoGC7-R33vaFQ line 534 > injectedScript line 2 > eval line 2524 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671974876546	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671974927995	geckodriver	INFO	Listening on 127.0.0.1:60368
+1671974931051	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "60369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilerF22qr"
+1671974931671	Marionette	INFO	Marionette enabled
+1671974931684	Marionette	INFO	Listening on port 60380
+Read port: 60380
+WebDriver BiDi listening on ws://127.0.0.1:60369
+1671974931969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilerF22qr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60369/devtools/browser/0e346f4c-47ac-4555-8798-2d6f36646d9b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1342062622%3A1671974940386047&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7PnyNdlOdT2R5AGxWqlPRea1G9S7wMuwfhWChaah5xuSUP8CjzAv8uz471DZkNe0TpHByLlA line 534 > injectedScript line 2 > eval line 5337 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1342062622%3A1671974940386047&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7PnyNdlOdT2R5AGxWqlPRea1G9S7wMuwfhWChaah5xuSUP8CjzAv8uz471DZkNe0TpHByLlA line 534 > injectedScript line 2 > eval line 2632 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671974945558	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975029436	geckodriver	INFO	Listening on 127.0.0.1:60537
+1671975032483	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "60538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilemJlI5V"
+1671975033142	Marionette	INFO	Marionette enabled
+1671975033156	Marionette	INFO	Listening on port 60547
+Read port: 60547
+WebDriver BiDi listening on ws://127.0.0.1:60538
+1671975033427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilemJlI5V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60538/devtools/browser/23972248-f177-4411-83a3-c545a905b631
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1560351118%3A1671975041147275&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh64f6uQhW1z6rdSzvYeiWOX93QbHnGJRzY_JICaSUfDsuWl4TMXtbnHUv5w0fDZE0IeG8AS line 534 > injectedScript line 2 > eval line 1966 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1560351118%3A1671975041147275&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh64f6uQhW1z6rdSzvYeiWOX93QbHnGJRzY_JICaSUfDsuWl4TMXtbnHUv5w0fDZE0IeG8AS line 534 > injectedScript line 2 > eval line 1179 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975046600	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975153160	geckodriver	INFO	Listening on 127.0.0.1:60629
+1671975156220	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "60630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileA8J8rf"
+1671975156883	Marionette	INFO	Marionette enabled
+1671975156896	Marionette	INFO	Listening on port 60639
+Read port: 60639
+WebDriver BiDi listening on ws://127.0.0.1:60630
+1671975157178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileA8J8rf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60630/devtools/browser/33a7404d-2fe4-4be5-8e3e-6506a75da25e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1845340465%3A1671975165168019&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7PF1tIOikzcslaw3ib_5Jv7NzNttXmMeW5c3cWlANrFa3bqyZNVaf_7jLQDj44ILol-_Dj line 534 > injectedScript line 2 > eval line 1135 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1845340465%3A1671975165168019&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7PF1tIOikzcslaw3ib_5Jv7NzNttXmMeW5c3cWlANrFa3bqyZNVaf_7jLQDj44ILol-_Dj line 534 > injectedScript line 2 > eval line 4425 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975170582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975281350	geckodriver	INFO	Listening on 127.0.0.1:60732
+1671975284407	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "60733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilehQ2OLY"
+1671975285071	Marionette	INFO	Marionette enabled
+1671975285082	Marionette	INFO	Listening on port 60742
+Read port: 60742
+WebDriver BiDi listening on ws://127.0.0.1:60733
+1671975285368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilehQ2OLY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60733/devtools/browser/6ce2e36f-b06a-4054-8038-5dbaccfac849
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1844994051%3A1671975296987013&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5op1PVCyrKR-BYGT4PoFS7if7cUgfwC216gJsFF_Y3QXgqeF3EHNZkyqQyC62x0s8KdZo2lg line 534 > injectedScript line 2 > eval line 5224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1844994051%3A1671975296987013&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5op1PVCyrKR-BYGT4PoFS7if7cUgfwC216gJsFF_Y3QXgqeF3EHNZkyqQyC62x0s8KdZo2lg line 534 > injectedScript line 2 > eval line 6250 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975302615	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975435303	geckodriver	INFO	Listening on 127.0.0.1:60876
+1671975438347	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "60877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofiledGLKrd"
+1671975439372	Marionette	INFO	Marionette enabled
+1671975439388	Marionette	INFO	Listening on port 60890
+Read port: 60890
+WebDriver BiDi listening on ws://127.0.0.1:60877
+1671975439685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofiledGLKrd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60877/devtools/browser/916a6898-70ee-4e27-a17a-998f9b12919e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2130659096%3A1671975449920371&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7nicfAT-eG-JYqEYybM9ohFJB-NmNvBTSbWJN4CHt_z5UPJ93tlbdGRiM8cpTF76xZkw750g line 534 > injectedScript line 2 > eval line 6176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2130659096%3A1671975449920371&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7nicfAT-eG-JYqEYybM9ohFJB-NmNvBTSbWJN4CHt_z5UPJ93tlbdGRiM8cpTF76xZkw750g line 534 > injectedScript line 2 > eval line 2989 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975454865	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975567165	Marionette	INFO	Stopped listening on port 60890
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671975570404	geckodriver	INFO	Listening on 127.0.0.1:61009
+1671975573488	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "61010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile5VlTvB"
+1671975574485	Marionette	INFO	Marionette enabled
+1671975574497	Marionette	INFO	Listening on port 61021
+Read port: 61021
+WebDriver BiDi listening on ws://127.0.0.1:61010
+1671975574811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile5VlTvB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61010/devtools/browser/6e8e6ce9-e8bf-4486-8582-063b314805d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-670775881%3A1671975582981420&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7JidkY11sKbuT2m-mJoEMuuVJ8Rbs9Fe1akulQ00JgCOE_2qhDHO2DhF6Mz_ybAqQw7HYyqQ line 534 > injectedScript line 2 > eval line 3807 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-670775881%3A1671975582981420&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7JidkY11sKbuT2m-mJoEMuuVJ8Rbs9Fe1akulQ00JgCOE_2qhDHO2DhF6Mz_ybAqQw7HYyqQ line 534 > injectedScript line 2 > eval line 6634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975588160	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975641934	geckodriver	INFO	Listening on 127.0.0.1:61096
+1671975644995	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "61097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileOjPZOQ"
+1671975645658	Marionette	INFO	Marionette enabled
+1671975645672	Marionette	INFO	Listening on port 61108
+Read port: 61108
+WebDriver BiDi listening on ws://127.0.0.1:61097
+1671975645940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileOjPZOQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61097/devtools/browser/1de58ac9-a83d-4a8c-a62b-881a67595b44
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S352807186%3A1671975654291980&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh667JSRdSI1bGA27R2J8CZK60wJTX0rSAn2oR8NLvOx7kVykRHVJ3gLnW18qTQusvSRGBm0cA line 534 > injectedScript line 2 > eval line 3900 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S352807186%3A1671975654291980&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh667JSRdSI1bGA27R2J8CZK60wJTX0rSAn2oR8NLvOx7kVykRHVJ3gLnW18qTQusvSRGBm0cA line 534 > injectedScript line 2 > eval line 31 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975660052	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975775189	geckodriver	INFO	Listening on 127.0.0.1:57266
+1671975778240	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile3TFISv"
+1671975778880	Marionette	INFO	Marionette enabled
+1671975778891	Marionette	INFO	Listening on port 57278
+Read port: 57278
+WebDriver BiDi listening on ws://127.0.0.1:57267
+1671975779159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile3TFISv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57267/devtools/browser/1f2c13bf-f5ff-4ce6-ae7a-60f06bac472f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S285481761%3A1671975787467428&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4Z2rbc5gdr5bfNDmUdzpEgR_MM0pJEpBRnmXol1_IEJ8EG6RqXDlN0oD9LEAkjFwWXFB-fHA line 534 > injectedScript line 2 > eval line 6593 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S285481761%3A1671975787467428&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh4Z2rbc5gdr5bfNDmUdzpEgR_MM0pJEpBRnmXol1_IEJ8EG6RqXDlN0oD9LEAkjFwWXFB-fHA line 534 > injectedScript line 2 > eval line 5135 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975792987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671975894971	geckodriver	INFO	Listening on 127.0.0.1:57369
+1671975897997	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileTD0ZRl"
+1671975898637	Marionette	INFO	Marionette enabled
+1671975898651	Marionette	INFO	Listening on port 57381
+Read port: 57381
+WebDriver BiDi listening on ws://127.0.0.1:57370
+1671975898919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileTD0ZRl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57370/devtools/browser/8a9a531d-0bac-4d83-8866-5e22db45e490
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S620965558%3A1671975908780035&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh54oGVlKqzjGUXmLRvJ193ZPmFujG7C22MOz5IrE_97mP9BiFLAinsRtNEsrs4mB-xDbLWm3A line 534 > injectedScript line 2 > eval line 4283 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S620965558%3A1671975908780035&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh54oGVlKqzjGUXmLRvJ193ZPmFujG7C22MOz5IrE_97mP9BiFLAinsRtNEsrs4mB-xDbLWm3A line 534 > injectedScript line 2 > eval line 4211 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671975914039	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671976002412	geckodriver	INFO	Listening on 127.0.0.1:57460
+1671976005465	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9phJZu"
+1671976006095	Marionette	INFO	Marionette enabled
+1671976006107	Marionette	INFO	Listening on port 57471
+Read port: 57471
+WebDriver BiDi listening on ws://127.0.0.1:57461
+1671976006378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9phJZu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57461/devtools/browser/49473a62-b62a-4ece-b031-5c46036807d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1475390701%3A1671976015821557&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5Ogz7HXSAyyaVXNqT19hPXMyg1bf9leL_yahoWXOmQkPW5T1XE3ds-hCkbrWWioRRbtqFH4g line 534 > injectedScript line 2 > eval line 6243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1475390701%3A1671976015821557&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5Ogz7HXSAyyaVXNqT19hPXMyg1bf9leL_yahoWXOmQkPW5T1XE3ds-hCkbrWWioRRbtqFH4g line 534 > injectedScript line 2 > eval line 2776 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671976021853	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671976173231	geckodriver	INFO	Listening on 127.0.0.1:57574
+1671976176276	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileFW3Kw2"
+1671976177039	Marionette	INFO	Marionette enabled
+1671976177052	Marionette	INFO	Listening on port 57584
+Read port: 57584
+WebDriver BiDi listening on ws://127.0.0.1:57575
+1671976177391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileFW3Kw2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57575/devtools/browser/f8ffccbd-330c-42e9-ad89-39054f9f8040
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S420102712%3A1671976185766347&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6c8qMK9QqxJ_ms2Ztz1xp48XtrQudaTdLMfInrTH61RSyP2ODraNlgAUqCC5LMyNRZ46367Q line 534 > injectedScript line 2 > eval line 5154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S420102712%3A1671976185766347&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6c8qMK9QqxJ_ms2Ztz1xp48XtrQudaTdLMfInrTH61RSyP2ODraNlgAUqCC5LMyNRZ46367Q line 534 > injectedScript line 2 > eval line 2048 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671976190605	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671976346179	geckodriver	INFO	Listening on 127.0.0.1:57684
+1671976349228	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile4SWpeX"
+1671976349882	Marionette	INFO	Marionette enabled
+1671976349894	Marionette	INFO	Listening on port 57694
+Read port: 57694
+WebDriver BiDi listening on ws://127.0.0.1:57685
+1671976350170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile4SWpeX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57685/devtools/browser/978def1d-874a-487d-844a-0cf6f2ab073c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1107477143%3A1671976358687161&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6NGRV2mVoe3mKlZRLQEzxFoW4KIS9cL_28sENf_6_iLk9TZsNsEBOOwZRQH-xLp4FHFwJY0w line 534 > injectedScript line 2 > eval line 7015 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1107477143%3A1671976358687161&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6NGRV2mVoe3mKlZRLQEzxFoW4KIS9cL_28sENf_6_iLk9TZsNsEBOOwZRQH-xLp4FHFwJY0w line 534 > injectedScript line 2 > eval line 3034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671976363492	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671976396434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976412702	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976446228	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976519196	geckodriver	INFO	Listening on 127.0.0.1:57778
+1671976522237	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilexI97XI"
+1671976523191	Marionette	INFO	Marionette enabled
+1671976523204	Marionette	INFO	Listening on port 57789
+Read port: 57789
+WebDriver BiDi listening on ws://127.0.0.1:57779
+1671976523506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilexI97XI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57779/devtools/browser/ac1af5b4-5006-422d-9d62-abf87f4f9b33
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1861899242%3A1671976540833657&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5eMCnhIBWdS9Z0wns7UR2FICC5Hw2MbzbpwmJFPshSeIr5xlIJG4-MSeYpiQUhqtjl8DALxQ line 534 > injectedScript line 2 > eval line 2393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1861899242%3A1671976540833657&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh5eMCnhIBWdS9Z0wns7UR2FICC5Hw2MbzbpwmJFPshSeIr5xlIJG4-MSeYpiQUhqtjl8DALxQ line 534 > injectedScript line 2 > eval line 2393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1671976589286	geckodriver	INFO	Listening on 127.0.0.1:57869
+1671976592310	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileY4TFns"
+1671976592988	Marionette	INFO	Marionette enabled
+1671976593001	Marionette	INFO	Listening on port 57880
+Read port: 57880
+WebDriver BiDi listening on ws://127.0.0.1:57870
+1671976593286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileY4TFns\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57870/devtools/browser/6275b745-e6d8-4000-b446-8eb5476540de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2146628689%3A1671976601317627&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6k4_BI7IryX0io-xyR8JryhbOQI1GJrYnzO4DxubgC532bUcIelIFiMT2BbT1k9Xxxhl7qVg line 534 > injectedScript line 2 > eval line 4534 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2146628689%3A1671976601317627&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh6k4_BI7IryX0io-xyR8JryhbOQI1GJrYnzO4DxubgC532bUcIelIFiMT2BbT1k9Xxxhl7qVg line 534 > injectedScript line 2 > eval line 4117 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671976608095	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671976639097	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976666356	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976682285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976713707	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976748331	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976771789	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976798756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976830088	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976859935	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976885722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976908753	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976938379	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976966759	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671976991744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977020318	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977035831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977063986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977097412	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977128895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977160963	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977196096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977220101	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977241339	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977260338	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977286897	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977315156	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977350090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977371451	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977398025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977425582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977452034	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977487035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977512551	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671977606350	geckodriver	INFO	Listening on 127.0.0.1:50581
+1671977609400	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileHqQgxA"
+1671977610377	Marionette	INFO	Marionette enabled
+1671977610386	Marionette	INFO	Listening on port 50591
+Read port: 50591
+WebDriver BiDi listening on ws://127.0.0.1:50582
+1671977610663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileHqQgxA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50582/devtools/browser/445b6786-ee1d-4c53-9904-1b2ebc84cfea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1845340465%3A1671977618640787&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7iXNL6rkxThWQ6Qoz6cOY-5tnHyrKmf9T0FQ4ScTq8_2MLbluXn83qZxtg6d7YqKuPEeW6Cg line 534 > injectedScript line 2 > eval line 570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-1845340465%3A1671977618640787&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dholistic%2Bseo%26oq%3Dholistic%2Bseo%26aqs%3Dchrome..69i64j69i58j69i65l4j69i60l2.5089j0j7%26sourceid%3Dchrome%26ie%3DUTF-8%23lpqa%3Da%252C%252Cd%252C1&hl=tr&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AeAAQh7iXNL6rkxThWQ6Qoz6cOY-5tnHyrKmf9T0FQ4ScTq8_2MLbluXn83qZxtg6d7YqKuPEeW6Cg line 534 > injectedScript line 2 > eval line 7326 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1671977625437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
